@@ -1,0 +1,7 @@
+Configuration read from /usr/home/user1/public_html/Booker/server/tests/phpunit.                                                                             xml
+
+...................................
+
+Time: 1.46 seconds, Memory: 2.00MB
+
+OK (35 tests, 35 assertions)
